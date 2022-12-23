@@ -59,5 +59,9 @@ dependencies {
     // Glide
     implementation 'com.github.bumptech.glide:glide:4.13.2'
 
+    // GSON
+    implementation 'com.google.code.gson:gson:2.9.0' // Gradle
+    // implementation("com.google.code.gson:gson:2.9.0") // Gradle KTS
+
 
 }
